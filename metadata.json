@@ -1,0 +1,6 @@
+{
+  "name": "Daily Excel Checklist & Stamp Tracker",
+  "description": "Interactive Excel sheet tracker with clickable Column B, daily auto-resetting checkboxes, persistent last-check timestamps, user attribution, and calendar tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
